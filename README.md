@@ -1,4 +1,4 @@
-# AboutMe: Using Self-Identification in Webpages to Document the Effects of English Pretraining Data Filters
+# AboutMe: Using Self-Descriptions in Webpages to Document the Effects of English Pretraining Data Filters
 
 ## Paper
 
