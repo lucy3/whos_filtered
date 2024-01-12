@@ -10,7 +10,36 @@
 
 ## Code Directory
 
-More details coming soon!
+**Code**
+- **cluster**
+  - `cluster.py`
+  - `train_clusterer.py`
+- **filter**
+  - **lr**
+     - `hyperparameters.py`
+     - `lr_quality_filters.py`
+     - `train.py`
+     - `util.py`
+  - `evaluate_ft_models.py`
+  - `quality_data_org.py`
+  - `rule_based_scores.py`
+  - `sample_openwebtext2.py`
+  - `score_manager.py`
+  - `text_normalizer.py`
+  - `wikipedia_perplexity.py`
+  - `zreader.py`
+- **get\_data**
+  - `bloomfilter.py`
+  - `dataset_statistics.py`
+  - `get_random_pages.py`
+  - `url_processor.py`
+  - `website_expander.py`
+- **identity\_measures**
+  - **geography**
+  - **personas**
+  - **roberta\_classifier**
+  - `person_vs_orgs.py`
+  - `spacy_helper.py`
 
 ## Dataset 
 
