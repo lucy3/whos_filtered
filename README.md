@@ -2,23 +2,15 @@
 
 ## Paper
 
-**Authors**: Li Lucy, Suchin Gururangan, Luca Soldaini, Emma Strubell, David Bamman, Lauren Klein, Jesse Dodge
-
 **Abstract**: Large language models' (LLMs) abilities are drawn from their pretraining data, and model development begins with data curation. However, decisions around what data is retained or removed during this initial stage is under-scrutinized. In our work, we ground web text, which is a popular pretraining data source, to its social and geographic contexts. We create a new dataset of 10.3 million self-descriptions of website creators, and extract information about who they are and where they are from: their topical interests, social roles, and geographic affiliations. Then, we conduct the first study investigating how ten "quality" and English language identification (langID) filters affect webpages that vary along these social dimensions. Our experiments illuminate a range of implicit preferences in data curation: we show that some quality classifiers act like topical domain filters, and langID can overlook English content from some regions of the world. Overall, we hope that our work will encourage a new line of research on pretraining data curation practices and its social implications.
-
-[Preprint](https://arxiv.org/abs/2401.06408)
-
-[Dataset](https://huggingface.co/datasets/allenai/aboutme)
 
 ## Model Release Plans
 
 We plan to release the following: 
-- quality filters we trained, perhaps as a part of AI2's Dolma toolkit.
+- quality filters we trained
 - our RoBERTa classifier for tagging tokens that refer to social roles 
 
 ## Code Directory
-
-This code directory map is under construction. 
 
 **Code**
 - **cluster**
