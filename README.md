@@ -14,6 +14,8 @@
 
 Our RoBERTa classifier for tagging tokens that refer to social roles: [Link](https://huggingface.co/lucy3/roberta_social_roles)
 
+Our reproduced quality filters can be found in `data/filter_data/combined/`
+
 ## Code Directory
 
 This code directory map is under construction. 
