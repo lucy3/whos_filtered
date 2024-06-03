@@ -10,11 +10,9 @@
 
 [Dataset](https://huggingface.co/datasets/allenai/aboutme)
 
-## Model Release Plans
+## Models
 
-We plan to release the following: 
-- quality filters we trained, perhaps as a part of AI2's Dolma toolkit.
-- our RoBERTa classifier for tagging tokens that refer to social roles 
+Our RoBERTa classifier for tagging tokens that refer to social roles: [Link](https://huggingface.co/lucy3/roberta_social_roles)
 
 ## Code Directory
 
