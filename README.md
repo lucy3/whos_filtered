@@ -14,7 +14,7 @@
 
 Our RoBERTa classifier for tagging tokens that refer to social roles: [Link](https://huggingface.co/lucy3/roberta_social_roles)
 
-Our reproduced quality filters can be found in `data/filter_data/combined/`
+Our reproduced quality filters can be found in `data/filter_data/combined/`. These filters require scikit-learn 1.2.2. 
 
 ## Code Directory
 
